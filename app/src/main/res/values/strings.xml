@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RootKali</string>
+
+    <string name="intro_hacker">
+
+    </string>
+    <string name="title_activity_menu">Noob Kali</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="conhecimento_livre">Conhecimento livre</string>
+    <string name="root_kali">Noob Kali</string>
+</resources>
